@@ -1,4 +1,4 @@
-package com.spring.boot.ddaddk.protection.exception;
+package com.spring.boot.ddaddk.protection;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
